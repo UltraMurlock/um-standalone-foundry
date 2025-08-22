@@ -1,4 +1,6 @@
+require("prototypes.item-groups")
 require("prototypes.item")
+require("prototypes.fluid")
 require("prototypes.recipe")
 require("prototypes.technology")
 require("prototypes.entity.entities")
