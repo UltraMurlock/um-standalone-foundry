@@ -26,7 +26,12 @@ data:extend({
 			{ inventory_index = defines.inventory.crafter_modules, shift = { 0, 1.25 } },
 		},
 		allowed_effects = { "consumption", "speed", "productivity", "pollution", "quality" },
-		crafting_categories = { "metallurgy" },
+		crafting_categories = {
+			"metallurgy",
+			"pressing",
+			"crafting-with-fluid-or-metallurgy",
+			"metallurgy-or-assembling",
+		},
 		crafting_speed = 4,
 		energy_source = {
 			type = "electric",
@@ -211,4 +216,3 @@ data:extend({
 		},
 	},
 })
-
