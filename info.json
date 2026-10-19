@@ -1,6 +1,6 @@
 {
   "name": "um-standalone-foundry",
-  "version": "1.0.2",
+  "version": "1.2.0",
   "author": "UltraMurlock",
   "title": "Standalone Foundry",
   "description": "Add space age foundry as standalone.",
@@ -10,6 +10,6 @@
     "?TurboBelt",
     "?space-exploration"
   ],
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "freezing_required": true
 }
